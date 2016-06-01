@@ -88,3 +88,11 @@ btn_log_in_submit@3.png
 	(102, 102, 102)
 	(R: 51, G: 51, B: 51)
 	```
+
+1. 그림자가 들어가는 모든 요소는 아래의 정보를 함께 전달합니다.
+	* color
+	* radius
+	* offset
+		* width값과 height값을 각각 전달합니다.
+	* opacity
+		* 0과 1 사이의 실수값을 전달합니다.
